@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 this bwc add to
+=======
+this is deepin-c first file
+>>>>>>> 8a723257a583d38cb21104b9542fb1a8b0f906a7
+this is fixed deepin.txt
